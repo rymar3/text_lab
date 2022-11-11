@@ -1,0 +1,3 @@
+
+<img src="images/logo.png" height="100" width="100" align="left" >	
+				<font color="Maroon"><h1 class="shadowtext">Сайт студії "Web-DECO"</h1></font>

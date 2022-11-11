@@ -1,0 +1,9 @@
+
+ <script src ="js/clock1.js"></script>
+ <script>
+	window.onload = function(){
+	setInterval(clockPainting, 1000);}
+ </script>
+
+ =============================================
+ <center><canvas id="canvas" height="120" width="120"></canvas></center>
